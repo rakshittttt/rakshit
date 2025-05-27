@@ -1,3 +1,4 @@
 # Rakshit
-This is my first git repository. <br>
-Author- Rakshit Rana
+This is my first git repository. 
+<br>
+Author- Rakshit (student)
